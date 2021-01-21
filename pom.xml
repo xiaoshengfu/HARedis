@@ -18,7 +18,7 @@
 		<commons-io.version>2.6</commons-io.version>
 		<commons-net.version>3.6</commons-net.version>
 		<commons-fileupload.version>1.4</commons-fileupload.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 		<sigar.version>1.6.4</sigar.version>
 		<jsch.version>0.1.55</jsch.version>
 		<marshalling.version>2.0.6.Final</marshalling.version>
