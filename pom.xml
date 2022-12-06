@@ -16,7 +16,7 @@
 		<joda-time.version>2.10.1</joda-time.version>
 		<commons-lang3.version>3.8.1</commons-lang3.version>
 		<commons-io.version>2.6</commons-io.version>
-		<commons-net.version>3.6</commons-net.version>
+		<commons-net.version>3.9.0</commons-net.version>
 		<commons-fileupload.version>1.4</commons-fileupload.version>
 		<jackson.version>2.9.8</jackson.version>
 		<sigar.version>1.6.4</sigar.version>
